@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package com.day1;
 
 public class NameCommandLine {
     public static void main(String[] args){
