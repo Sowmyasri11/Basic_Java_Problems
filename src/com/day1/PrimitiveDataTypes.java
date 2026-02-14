@@ -1,4 +1,4 @@
-/*
+package com.day1;/*
 1.2 Write a Java program to display the default value of all primitive data types of Java
 */
 
