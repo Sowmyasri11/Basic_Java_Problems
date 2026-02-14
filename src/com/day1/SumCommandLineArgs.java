@@ -1,4 +1,4 @@
-/*
+package com.day1;/*
 1.4 To find the sum of command-line arguments and count the invalid integers entered.
  */
 

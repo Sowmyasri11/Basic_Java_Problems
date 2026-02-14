@@ -1,4 +1,4 @@
-/*1.3 Write a program to check two strings are equal or not.
+package com.day1;/*1.3 Write a program to check two strings are equal or not.
 */
 
 import java.util.Scanner;
